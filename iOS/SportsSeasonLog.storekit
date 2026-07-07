@@ -1,0 +1,40 @@
+{
+  "identifier" : "SportsSeasonLog",
+  "nonRenewingSubscriptions" : [],
+  "products" : [],
+  "settings" : {},
+  "subscriptionGroups" : [
+    {
+      "id" : "SportsSeasonLogPro",
+      "localizations" : [],
+      "name" : "SportsSeasonLog Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "2.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "SportsSeasonLogProMonthly",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlock Season stat summary and multi-child/team view.",
+              "displayName" : "SportsSeasonLog Pro Monthly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.shimondeitel.sportsseasonlog.pro.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "SportsSeasonLog Pro Monthly",
+          "subscriptionGroupID" : "SportsSeasonLogPro",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
